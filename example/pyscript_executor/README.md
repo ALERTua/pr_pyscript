@@ -9,3 +9,6 @@ These examples assume you already got to know the previous chapters frrom the [I
 * [Beginner Example](1_beginner/README.md)
 * [Advanced Example](2_advanced/README.md)
 * [Expert Example](3_expert/README.md)
+
+### Pyscript pyscript_executor documentation
+https://hacs-pyscript.readthedocs.io/en/stable/reference.html#pyscript-executor
