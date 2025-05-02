@@ -1,0 +1,6 @@
+pyscript: !include pyscript/config.yaml
+
+logger:
+  default: info
+  logs:
+    custom_components.pyscript: debug

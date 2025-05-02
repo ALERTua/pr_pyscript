@@ -1,0 +1,10 @@
+allow_all_imports: true
+hass_is_global: true
+
+secrets:
+  my_secret: !secret my_secret
+
+apps:
+  example_app:
+    - entity_id: sun.sun
+    - entity_id: update.hacs_update
