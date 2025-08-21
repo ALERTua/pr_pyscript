@@ -8,7 +8,8 @@
 Start your way from the beginner and work towards the expert.
 * Each `config` folder in a level of an example represents your Home Assistant `/config`.
 * It is recommended to study the topics in the order they appear in the chapters below.
- 
+* Each chapter builds on what you’ve already learned in the previous chapters.
+
 
 #### Basic Topics
 

@@ -1,6 +1,8 @@
 from random import choice
 
-@time_trigger('period(sunset, 1 hour, sunrise - 1 hour)')  # every hour from sunset to one hour before sunrise
+# every hour from sunset to one hour before sunrise
+# via https://hacs-pyscript.readthedocs.io/en/stable/reference.html#time-trigger
+@time_trigger('period(sunset, 1 hour, sunrise - 1 hour)')
 def presence_simulation():
     entity_ids = [
         "light.living_room",
