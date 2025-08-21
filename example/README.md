@@ -2,6 +2,14 @@
 
 ###### It is recommended to study the basic topics from top to bottom 
 
+#### Examples Structure
+
+* Most of the examples have a few levels of difficulty: beginner, advanced, expert.
+Start your way from the beginner and work towards the expert.
+* Each `config` folder in a level of an example represents your Home Assistant `/config`.
+* It is recommended to study the topics in the order they appear in the chapters below.
+ 
+
 #### Basic Topics
 
 * [Pyscript Setup](0_setup/README.md)
