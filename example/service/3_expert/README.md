@@ -1,6 +1,6 @@
 ## Pyscript service Example 
 
-These examples assume you already got to know the previous chapters frrom the [Introduction](../README.md).
+These examples assume you already got to know the previous chapters from the [Introduction](../README.md).
 
 ### Index
 

@@ -29,6 +29,6 @@ Start your way from the beginner and work towards the expert.
 * [webhook_trigger](webhook_trigger/README.md)
 * [pyscript_executor](pyscript_executor/README.md)
 * [pyscript_compile](pyscript_compile/README.md)
-* [Third Party](99_third_party/README.md)
+* [Third Party](zz_third_party/README.md)
 * async!
 * wait_until
